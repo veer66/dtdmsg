@@ -1,0 +1,1 @@
+curl -d '<!ENTITY certerror.technical.heading "รายละเอียดทางเทคนิค">'  http://localhost:8080/dtdmsg/read
